@@ -1,2 +1,0 @@
-# Girls With Guns
-Second
