@@ -1,4 +1,4 @@
 import time
 
-print("Время в секундах с начала 1970 го года: ")
+print("Time:", end=" ")
 print(time.time())
